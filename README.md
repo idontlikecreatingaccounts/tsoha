@@ -1,3 +1,20 @@
+A simple message board application with support for subforums. Each subforum is comprised of threads chaining together messages.
+
+Features:
+* Ability to create an account, log in and log out
+* A front page listing all boards and their recent activity
+* Creating a thread
+* Replying to a thread
+* Editing and deleting messages
+* Search
+* Admin and moderation tools
+* Hidden boards
+* User privileges
+
+---
+
+Kurssimateriaalista kopioitu alkuperäinen:
+
 Keskustelusovellus
 
 Sovelluksessa näkyy keskustelualueita, joista jokaisella on tietty aihe. Alueilla on keskusteluketjuja, jotka muodostuvat viesteistä. Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
