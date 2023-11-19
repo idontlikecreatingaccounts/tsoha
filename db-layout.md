@@ -61,3 +61,7 @@ Ref: ViewPerms.group_id > Groups.id
 
 Ref: PostPerms.thread_id > Threads.id
 Ref: PostPerms.group_id > Groups.id
+
+### Visualization
+
+![visualization](db-visual.png)
