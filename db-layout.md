@@ -6,7 +6,7 @@ Table Users {
     joindate timestamp
 }
 
-Table Messages {
+Table Posts {
     id integer [primary key]
     user_id integer
     thread_id integer
@@ -47,8 +47,8 @@ Table PostPerms {
     group_id integer
 }
 
-Ref: Messages.user_id > Users.id
-Ref: Messages.thread_id > Threads.id
+Ref: Posts.user_id > Users.id
+Ref: Posts.thread_id > Threads.id
 
 Ref: Threads.user_id > Users.id
 Ref: Threads.area_id > Areas.id
@@ -62,7 +62,7 @@ Ref: ViewPerms.group_id > Groups.id
 Ref: PostPerms.thread_id > Threads.id
 Ref: PostPerms.group_id > Groups.id
 
-Hint: use 'code' view for proper formatting.
+**Hint:** use 'code' view for proper formatting.
 
 ### Visualization
 
