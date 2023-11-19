@@ -24,7 +24,6 @@ Table Threads {
 Table Areas {
     id integer [primary key]
     name varchar
-    visibility integer
 }
 
 Table Groups {
