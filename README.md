@@ -11,7 +11,7 @@ Features:
 * Hidden boards
 * User privileges
 
-For details on usage, see MANUAL.md  
+For details on usage, see **[MANUAL.md](/MANUAL.md)**.  
 For details on implementation, see db-layout.md and todo.md
 
 ---
