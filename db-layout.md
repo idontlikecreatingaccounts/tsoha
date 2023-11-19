@@ -62,6 +62,8 @@ Ref: ViewPerms.group_id > Groups.id
 Ref: PostPerms.thread_id > Threads.id
 Ref: PostPerms.group_id > Groups.id
 
+Hint: use 'code' view for proper formatting.
+
 ### Visualization
 
-![visualization](db-visual.png)
+![visualization](design/db-visual.png)
