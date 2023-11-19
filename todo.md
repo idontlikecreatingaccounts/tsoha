@@ -29,7 +29,7 @@
 - Security stuff [ ]  
     - Password encryption [ ]
     - *E-mail encryption [ ]
-        - *Setting to disable saving emails [ ]  
+        - *Setting to disable saving e-mails [ ]  
 - Cookies [ ] 
 - *Forum generator (first user gains admin rights, basic setup)
 
@@ -61,7 +61,7 @@
 - Search [ ]  
     - Posts [ ]  
     - Threads [ ]  
-    - *Users [ ]  
+    - Users [ ]  
     - ViewPerms [ ]  
         - Memberships [ ]  
         - Groups [ ]  
@@ -74,6 +74,6 @@
     - Test databases on command line [ ]
     - Test databases through GUI [ ]
     - Test site not breaking when resized [ ]
-    - Repeat each for Gecko and Chromium [ ]
+    - Repeat visual tests for Gecko and Chromium [ ]
     - *Use Firefox to spoof mobile user agent [ ]
 - Do tests [ ]  
