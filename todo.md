@@ -19,11 +19,13 @@
 - Write one consistent CSS file for everything [ ]  
 
 ### Backend
-- Plan databases [ ]   
+- Plan databases [~]   
 - Build databases [ ]  
 - Connect databases to page [ ]  
 - Security stuff [ ]  
 
 ### Testing
 - Plan tests [ ]  
+    - Test databases on command line [ ]
+    - Test databases through GUI [ ]
 - Do tests [ ]  
