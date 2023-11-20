@@ -66,3 +66,8 @@ Ref: PostPerms.group_id > Groups.id
 ### Visualization
 
 ![visualization](design/db-visual.png)
+
+### Ideas to think about
+
+- 'Hidden' flag for posts and threads to allow for soft deletion.  
+- Storing "preview information" (front page, latest post, post count etc.) separately. (Duplicate information, probably faster.)
